@@ -4,8 +4,9 @@ show_downloads: false
 ---
 
 Короткая ссылка сюда:
-[clc.am/hack-s](https://clc.am/hack-s)
-[goo.su/hack-s](https://goo.su/hack-s)
+
+- [clc.am/hack-s](https://clc.am/hack-s)
+- [goo.su/hack-s](https://goo.su/hack-s)
 
 ## Занятия
 - [Оранжевый квадрат, фиолетовый круг](/scratch/lessons/orange-purple/)
