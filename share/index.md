@@ -12,7 +12,7 @@ show_downloads: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/97Sl9NmaSm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Как собрать проект — текстовая инструкция
+## Как собрать проект — текстовая инструкция (дополняется)
 
 Пусть ответственный за сборку создаст студию
 
@@ -27,6 +27,17 @@ show_downloads: false
 scratch.mit.edu/studios/7777
 
 Только вместо 7777 — числа, которые в адресе вашей студии
+
+Нажмите подписаться
+
+Теперь студия есть в разделе «Студии» вашего профиля
+
+Добавьте свои проекты в студию
+
+Выберите один из проектов, тот, в который будете перетаскивать всё из остальных
+
+Зайдите в другие проекты, перетащите фоны из них в рюкзак
+
 
 
 
