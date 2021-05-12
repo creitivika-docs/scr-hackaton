@@ -4,7 +4,7 @@ show_downloads: false
 ---
 
 Короткая ссылка сюда:
-[bit.do/scrdocs](http://bit.do/scrdocs)
+[https://clc.am/hack-s](clc.am/hack-s)
 [clc.am/scrdocs](https://clc.am/scrdocs)
 
 ## Занятия
