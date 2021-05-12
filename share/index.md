@@ -8,14 +8,17 @@ show_downloads: false
 - [clc.am/hack-s](https://clc.am/hack-s)
 - [goo.su/hack-s](https://goo.su/hack-s)
 
-## Занятия
-- [Оранжевый квадрат, фиолетовый круг](/scratch/lessons/orange-purple/)
-- [«Оно живое!»](/scratch/lessons/itsalive/)
-- [Отладка 2, «Сюрприз»](/scratch/lessons/otladkan2/)
-- [Музыкальное видео](/scratch/lessons/musvideo/)
-- [Персонажи](/scratch/lessons/persons/)
-- [Диалоги](/scratch/lessons/dialogs/)
-- [Сцены](/scratch/lessons/scenes/)
-- [Передай дальше](/scratch/lessons/dalshe/)
-- [Игры для начинающих](/scratch/lessons/games/)
-- [Счёт](/scratch/lessons/score/)
+## Как собрать проект — текстовая инструкция
+
+Пусть ответственный за сборку создаст студию
+
+1. Зайти в «мои работы»
+2. Нажать «Новая студия»
+3. Написать название новой студии
+4. Поставить галочку, чтобы все могли добавлять проекты
+
+Пусть все подпишутся на студию
+
+Введите в адресной строке браузера 
+scratch.mit.edu/studios/
+
