@@ -38,16 +38,24 @@ published: true
 
 ### 2. Подпишитесь на студию
 
-**1. Для этого зайдите в студию — введите в адресной строке браузера** ![studioadress.png]({{site.baseurl}}/share/studioadress.png)
-
+**1. Для этого зайдите в студию — введите в адресной строке браузера** 
 
 > scratch.mit.edu/studios/7777
 
 Только вместо 7777 — числа, которые в адресе вашей студии
 
-Нажмите подписаться
+![studioadress.png]({{site.baseurl}}/share/studioadress.png)
 
-Теперь студия есть в разделе «Студии» вашего профиля
+
+
+**2. Нажмите «подписаться»**
+![subscribing.png]({{site.baseurl}}/share/subscribing.png)
+
+Если подписались, кнопка выглядит так:
+![subscribed.png]({{site.baseurl}}/share/subscribed.png)
+
+
+**3. Теперь студия есть в разделе «Студии» вашего профиля**
 
 ### 3. Добавьте проекты в студию
 
