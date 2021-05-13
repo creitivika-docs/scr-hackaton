@@ -23,7 +23,8 @@ published: true
 
 2. Нажать «Новая студия»![tonewstudio.png]({{site.baseurl}}/share/tonewstudio.png)
 
-3. Кликнуть на Untitled studio и изменить название новой студии (в честь команды)
+3. Кликнуть на Untitled studio и изменить название новой студии (в честь команды)![studioname.png]({{site.baseurl}}/share/studioname.png)
+
 4. Поставить галочку, чтобы все могли добавлять проекты
 
 ### 2. Подпишитесь на студию
