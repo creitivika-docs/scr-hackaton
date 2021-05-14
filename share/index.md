@@ -80,8 +80,8 @@ published: true
 1. Зайдите в другой проект
 1. Откройте рюкзак 	![backpack.png]({{site.baseurl}}/share/backpack.png)
 
-1. Перетащите в рюкзак фоны и спрайты, которые нужно добавить в проект![to-backpack.png]({{site.baseurl}}/share/to-backpack.png)
+1. Перетащите мышью в рюкзак фоны и спрайты, которые нужно добавить в проект![to-backpack.png]({{site.baseurl}}/share/to-backpack.png)
 
 
 1. Зайдите в проект, в котором будете собирать.
-1. Перетащите в него спрайты и фоны из рюкзака![from-backpack.png]({{site.baseurl}}/share/from-backpack.png)
+1. Перетащите в него мышью спрайты и фоны из рюкзака![from-backpack.png]({{site.baseurl}}/share/from-backpack.png)
